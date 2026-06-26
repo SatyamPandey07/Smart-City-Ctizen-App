@@ -2,6 +2,8 @@
 
 A comprehensive, state-of-the-art mobile citizen engagement and utility management application for smart cities. Built with React 19, TypeScript, Tailwind CSS v4, and Framer Motion, this app provides high-fidelity simulations of modern municipal services, utility auditing, smart payments, and civic reporting.
 
+🚀 Live Interactive Demo: https://smart-city-citizen-hub-705565459967.asia-southeast1.run.app/
+
 [![React](https://img.shields.io/badge/React-19.0-blue?logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?logo=vite)](https://vitejs.dev)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind--CSS-v4.0-38B2AC?logo=tailwindcss)](https://tailwindcss.com)
