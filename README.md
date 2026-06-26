@@ -111,18 +111,6 @@ npm run build
 
 ---
 
-## 🔄 Synchronizing to your GitHub Account
-
-To push your latest workspace changes directly to your GitHub repository:
-
-1. Open the **Settings Menu** in the **Google AI Studio** top panel.
-2. Select **Export to GitHub** (or **Export ZIP**).
-3. Connect your GitHub account and select your repository to finalize the export.
-
-All your local workspace edits, including this comprehensive `README.md`, will instantly reflect on your repository main branch!
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
