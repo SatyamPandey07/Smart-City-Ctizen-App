@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .glass {
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(12px);
+  }
+}
+
+/* Custom design theme classes */
+.clean-glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+}
+
+.service-card-minimal {
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #E2E8F0;
+}
+
+.service-card-minimal:hover {
+  border-color: #3B82F6;
+  background-color: #EFF6FF;
+}
+
+.dot-indicator {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Override default scrollbar styles to keep them extremely minimal */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #E2E8F0;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #CBD5E1;
+}
+

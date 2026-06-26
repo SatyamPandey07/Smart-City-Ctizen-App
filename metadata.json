@@ -1,0 +1,6 @@
+{
+  "name": "Smart City Citizen Hub",
+  "description": "A comprehensive mobile citizen engagement hub for smart cities, enabling utility management, meter reporting, digital payments, and services tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
